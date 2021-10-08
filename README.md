@@ -1,3 +1,5 @@
-# js-cart-setup
-ADD ITEMS TO CART JAVASCRIPT PROJECT
-# AuroraBorealis
+# Aurora Borealis
+Adding an item to chart 
+My Javascript School Project for:
+DOM, DOM Events, JQuery, Call Stack, Callback & Promises, AJAX and APIs, JS Prototypes,Classes and OOP
+
